@@ -1,3 +1,7 @@
+
+# :closed_book: Estudando Vue.js :alarm_clock:
+
+
 # 3_projeto_vue
 
 This template should help get you started developing with Vue 3 in Vite.
